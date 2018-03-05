@@ -35,7 +35,7 @@ export default class HomeScreen extends React.Component {
           <View style={styles.getStartedContainer}>
             {this._maybeRenderDevelopmentModeWarning()}
 
-            <Text style={styles.getStartedText}>Get started by opening</Text>
+            <Text style={styles.getStartedText}>Hey Krishy</Text>
 
             <View style={[styles.codeHighlightContainer, styles.homeScreenFilename]}>
               <MonoText style={styles.codeHighlightText}>screens/HomeScreen.js</MonoText>
@@ -141,8 +141,8 @@ const styles = StyleSheet.create({
     paddingHorizontal: 4,
   },
   getStartedText: {
-    fontSize: 17,
-    color: 'rgba(96,100,109, 1)',
+    fontSize: 21,
+    color: 'rgba(25,0,0,0)',
     lineHeight: 24,
     textAlign: 'center',
   },

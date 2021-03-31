@@ -4,5 +4,3 @@ First-time development of a mobile app using the React Native framework. Iron-Ch
 ## Wiki Page
 
 https://github.com/Krishan7601/iron-chat/wiki
-
-Hey! 
